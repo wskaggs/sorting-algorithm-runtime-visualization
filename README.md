@@ -1,7 +1,5 @@
 # Sorting Algorithm Runtime Comparison
 
-## Introduction
-
 The runtime complexity of merge sort is $\theta(nlog(n))$; insertion sort,
 on the other hand, has a runtime complexity of $O(n^2)$. As such, we know that
 merge sort will be faster than insertion sort for large input sizes. However,
